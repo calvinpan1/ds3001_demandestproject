@@ -1,2 +1,1 @@
-# ds3001_demandestproject
-DS 3001 Demand Estimation Project
+# Project submission for: Kayleen Do, Zilan Saadi, Calvin Pan, Mercy Soly, Eric Lin
